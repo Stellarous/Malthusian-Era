@@ -6,6 +6,7 @@ The model contains some key principles:
 - Population carsh: Overshoot leads to famine/disease when population exeeds carrying capacity.
 
 ## Mathematical model
+### Malthusian Growth Equation:
 $$\frac{dp}{dt} = rp \left(1 - \frac{P}{K}\right)$$
 
 Where:
@@ -13,3 +14,8 @@ Where:
 - $r$ = Intrinsic growth rate
 - $K$ = Carrying capacity
 - $t$ = Time
+
+- Equilibrium: when $P = K$, population stablizes at subsistence.
+
+### Wage Determination:
+$$w = \alpha \cdot \frac{\text{Land}}{L}$$
