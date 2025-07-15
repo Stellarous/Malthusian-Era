@@ -27,4 +27,5 @@ The Malthusian era ended when:
 
 #### Modeling the Escape:
 Shift $K$ from fixed to exponentially growing:
+
 $$\frac{df}{dt} = \beta \cdot \text{Innovation Rate}$$
