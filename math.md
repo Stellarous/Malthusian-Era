@@ -19,3 +19,12 @@ Where:
 
 ### Wage Determination:
 $$w = \alpha \cdot \frac{\text{Land}}{L}$$
+
+### Escaping the trap: Industrial Revolution
+The Malthusian era ended when:
+- **Productivity Growth ? Population Growth**: Post-1750 innovations (steam engines, fertilizers) decoupled resource limits from output.
+- **Demographic Transition**: Falling birth rates followed declining death rates (Stage 3 of DMT).
+
+#### Modeling the Escape:
+Shift $K$ from fixed to exponentially growing:
+$$\frac{df}{dt} = \beta \cdot \text{Innovation Rate}$$
